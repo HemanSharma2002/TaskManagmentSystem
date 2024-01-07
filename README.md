@@ -18,6 +18,9 @@ Coloums to be create by API in database
 
 ### Postman/Insomia request
 
+Also use basic authenticatotion for request
+user: user
+password : pass
 
 POST
 ```http
