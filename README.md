@@ -92,7 +92,7 @@ Github - [HemanSharma2002](https://github.com/HemanSharma2002)
 
 LinkedIn - [HemanSharma](https://www.linkedin.com/in/heman-sharma-6a60b0203/)
 
-Resume - [Heman Sharma]()
+Resume - [Heman Sharma](https://drive.google.com/file/d/1uouXCOFQZpTLt38qbILMGSH4rJywsw_o/view?usp=sharing)
 ## 🛠 Skills
 Language - Java , Python
 
